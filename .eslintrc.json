@@ -1,4 +1,4 @@
 {
-  "extends": ["airbnb", "plugin:flowtype/recommended"],
+  "extends": ["plugin:flowtype/recommended"],
   "plugins": ["flowtype", "react-native"]
 }
